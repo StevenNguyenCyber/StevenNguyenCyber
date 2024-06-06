@@ -9,3 +9,10 @@ I am a IT professional with a profound interest in technology and a dedication t
 ## Objective
 
 My journey as a IT professional has led me to develop a passion for cybersecurity. I graduated with a Bachelor's of Science in Microbiology and I am now eager to transition into the Cybersecurity field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or as a IT Security Analyst. 
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
