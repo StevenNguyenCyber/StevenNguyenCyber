@@ -7,22 +7,6 @@ Thank you for visiting my GitHub! This repository is meant to document my cybers
 These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
 
 
-
----
-
-
-
- <br />
- <br />
-
-## Introduction
-
-I am a IT professional with a profound interest in technology and a dedication to solving complex problems. This is where I document my journey into learning about IT security.
-
-## Objective
-
-My journey as a IT professional has led me to develop a passion for cybersecurity. I graduated with a Bachelor's of Science in Microbiology and I am now eager to transition into the Cybersecurity field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or as a IT Security Analyst. 
-
 ## Certifications
 <div style="display: inline-block;">
     <a href="https://learn.microsoft.com/en-us/users/stevennguyen-9849/credentials/6c3a0004dce2d373?ref=https%3A%2F%2Fwww.linkedin.com%2F">
@@ -34,14 +18,12 @@ My journey as a IT professional has led me to develop a passion for cybersecurit
     </a>
 </div>
 
-## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Management                      | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+
 
 
 
