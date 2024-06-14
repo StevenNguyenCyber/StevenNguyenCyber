@@ -23,7 +23,7 @@ These projects showcase insights into my problem-solving approach, attention to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Management                      | <a href="[https://google.com](https://github.com/StevenNguyenCyber/Cybersecurity-Projects/blob/main/Vulnerability%20Management%20Labs)">Metasploit</a>|
+| Vulnerability Management                      | <a href="https://google.com](https://github.com/StevenNguyenCyber/Cybersecurity-Projects/blob/main/Vulnerability%20Management%20Labs">Metasploit</a>|
 | Active Directory                              | In-Progress                |
 
 
