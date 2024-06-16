@@ -6,7 +6,6 @@ Thank you for visiting my GitHub! This repository is meant to document my cybers
 
 These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
 
-
 ## Certifications
 <div style="display: inline-block;">
     <a href="https://learn.microsoft.com/en-us/users/stevennguyen-9849/credentials/6c3a0004dce2d373?ref=https%3A%2F%2Fwww.linkedin.com%2F">
@@ -25,7 +24,7 @@ These projects showcase insights into my problem-solving approach, attention to 
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management                      | <a href="https://github.com/StevenNguyenCyber/Vulnerability-Management">Metasploitable</a>|
 | Active Directory                              | In-Progress                |
-
-
+| SIEM                                          | In-Progress                |
+| 
 
 
