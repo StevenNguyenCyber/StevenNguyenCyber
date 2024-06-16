@@ -17,7 +17,7 @@ These projects showcase insights into my problem-solving approach, attention to 
     </a>
 </div>
 
-
+ <br />
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
