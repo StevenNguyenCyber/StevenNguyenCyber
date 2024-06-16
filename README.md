@@ -14,7 +14,7 @@
     </a>
 </div>
 <div style="display: inline-block;">
-    <a href="https://github.com/StevenNguyenCyber/Images/blob/36c2260abf94dc7b2fe886ba779bf328929491f7/Google%20IT%20Professional.pdf">
+    <a href="https://raw.githubusercontent.com/StevenNguyenCyber/Images/main/google%20it.png?token=GHSAT0AAAAAACTJL6TNRJ66S5CIUAJWVNPOZTOOEQA">
         <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google IT Support Professional Certification" />
     </a>
 </div>
