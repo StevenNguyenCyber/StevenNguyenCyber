@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Steven.
 
-👩🏻‍🎓Graduated with a Bachelor's in Microbiology, then I transitioned to tech<br/>
+👩🏻‍🎓Graduated with a Bachelor's in Science, then I transitioned to tech<br/>
 📝Currently studying IT security; documenting my skills and projects here<br/>
 
 ## Certifications
