@@ -4,7 +4,6 @@
 💻🔒  Currently studying IT security; documenting my skills and projects here<br/>
 
 ## Certifications
-    </a>
 </div><div style="display: inline-block;">
     <a href="https://www.credly.com/badges/51aedf61-04a0-4186-b0d9-7ff62951cc54/linked_in_profile">
         <img src="https://img.shields.io/badge/-Security%2B-EE4C2C?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Certification" />
