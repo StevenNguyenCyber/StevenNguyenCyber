@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Steven.
 
-👩🏻‍🎓📚  Life Science ➡️ IT Security<br/>
+👩🏻‍🎓📚  Life Science ➡️ 🖥️Tech <br/>
 💻🔒  Currently studying IT security; documenting my skills and projects here<br/>
 
 ## Certifications
