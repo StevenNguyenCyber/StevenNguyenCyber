@@ -24,7 +24,7 @@
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management                      | <a href="https://github.com/StevenNguyenCyber/Vulnerability-Management">Metasploitable Lab</a>|
-| Exploiting and Pentesting                     | <a href="r/Vulnerability-Management/blob/main/ExploitProvingGround.md">Exploit Proving Lab</a>       |
+| Exploiting and Pentesting                     | <a href="https://github.com/StevenNguyenCyber/Vulnerability-Management/blob/main/ExploitProvingGround.md">Exploit Proving Lab</a>       |
 | Active Directory                              | In-Progress                |
 | SIEM                                          | In-Progress                |
 
