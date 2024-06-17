@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Steven.
 
-👩🏻‍🎓Graduated with a Bachelor's in Science, then transitioned to tech<br/>
-📝Currently studying IT security; documenting my skills and projects here<br/>
+👩🏻‍🎓📚  Life Science ➡️ IT Security<br/>
+💻🔒  Currently studying IT security; documenting my skills and projects here<br/>
 
 ## Certifications
 <div style="display: inline-block;">
